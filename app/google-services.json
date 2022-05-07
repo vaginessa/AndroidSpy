@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085022310702",
+    "project_id": "spot-nick-4426e",
+    "storage_bucket": "spot-nick-4426e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085022310702:android:b6abb6709b4e8c30d9aabf",
+        "android_client_info": {
+          "package_name": "com.example.mobiletwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085022310702-4vjiuu81grpqj7ipbu9hsiujv9ectj2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQgAgG_aFmEVx2u5PGxWkzL4TshyuWiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085022310702-4vjiuu81grpqj7ipbu9hsiujv9ectj2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
